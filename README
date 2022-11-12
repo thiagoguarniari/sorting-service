@@ -1,1 +1,9 @@
-First commit
+Projeto de Estudo:
+
+Tecnologias:
+.NET 6
+
+Para configurar o ambiente:
+Abra o projeto com o Visual Studio e execute a partir do projeto Console
+
+Para alterar as formas de ordenação, basta mudar as configurações no appsettings.json.
