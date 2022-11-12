@@ -1,6 +1,6 @@
 ﻿namespace CrossCutting.Configuration.Settings
 {
-    public class OrdererSettingsProperties
+    public class SorterSettingsProperties
     {
         public bool Active { get; set; }
         public bool IsDescendingSort { get; set; }

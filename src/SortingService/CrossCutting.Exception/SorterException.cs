@@ -1,8 +1,8 @@
 ﻿namespace CrossCutting.CustomException
 {
-    public class OrdererException : Exception
+    public class SorterException : Exception
     {
-        public OrdererException()
+        public SorterException()
             : base("Erro ao ordenar a lista de livros") { }
     }
 }
